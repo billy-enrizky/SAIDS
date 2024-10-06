@@ -65,7 +65,7 @@ function App() {
     <>
       <div className='Main'>
         <h1 className='Title'>
-          CyberAttack Detector
+          SAIDS - Smart Alert Intrusion Detection System
         </h1>
         <h3 className='Description'>A cybercatching software that helps non-tech savvy people understand cyber threats to their server.</h3>
         <div className='Messages-list'>
