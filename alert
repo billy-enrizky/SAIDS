@@ -1,0 +1,617 @@
+[Classification: Misc activity] [Priority: 3] 
+10/06-11:19:11.954640 00:0C:29:A5:B7:A2 -> 00:50:56:E1:9B:9D type:0x800 len:0x62
+192.168.175.129 -> 142.250.187.110 ICMP TTL:64 TOS:0x0 ID:682 IpLen:20 DgmLen:84 DF
+Type:8  Code:0  ID:12   Seq:1  ECHO
+
+[**] [1:384:5] ICMP PING [**]
+[Classification: Misc activity] [Priority: 3] 
+10/06-11:19:11.954640 00:0C:29:A5:B7:A2 -> 00:50:56:E1:9B:9D type:0x800 len:0x62
+192.168.175.129 -> 142.250.187.110 ICMP TTL:64 TOS:0x0 ID:682 IpLen:20 DgmLen:84 DF
+Type:8  Code:0  ID:12   Seq:1  ECHO
+
+[**] [1:408:5] ICMP Echo Reply [**]
+[Classification: Misc activity] [Priority: 3] 
+10/06-11:19:11.980777 00:50:56:E1:9B:9D -> 00:0C:29:A5:B7:A2 type:0x800 len:0x62
+142.250.187.110 -> 192.168.175.129 ICMP TTL:128 TOS:0x0 ID:25792 IpLen:20 DgmLen:84
+Type:0  Code:0  ID:12  Seq:1  ECHO REPLY
+
+[**] [1:366:7] ICMP PING *NIX [**]
+[Classification: Misc activity] [Priority: 3] 
+10/06-11:19:12.006889 00:0C:29:A5:B7:A2 -> 00:50:56:E1:9B:9D type:0x800 len:0x62
+192.168.175.129 -> 142.250.187.110 ICMP TTL:64 TOS:0x0 ID:924 IpLen:20 DgmLen:84 DF
+Type:8  Code:0  ID:12   Seq:2  ECHO
+
+[**] [1:384:5] ICMP PING [**]
+[Classification: Misc activity] [Priority: 3] 
+10/06-11:19:12.006889 00:0C:29:A5:B7:A2 -> 00:50:56:E1:9B:9D type:0x800 len:0x62
+192.168.175.129 -> 142.250.187.110 ICMP TTL:64 TOS:0x0 ID:924 IpLen:20 DgmLen:84 DF
+Type:8  Code:0  ID:12   Seq:2  ECHO
+
+[**] [1:408:5] ICMP Echo Reply [**]
+[Classification: Misc activity] [Priority: 3] 
+10/06-11:19:12.033017 00:50:56:E1:9B:9D -> 00:0C:29:A5:B7:A2 type:0x800 len:0x62
+142.250.187.110 -> 192.168.175.129 ICMP TTL:128 TOS:0x0 ID:25794 IpLen:20 DgmLen:84
+Type:0  Code:0  ID:12  Seq:2  ECHO REPLY
+
+[**] [1:366:7] ICMP PING *NIX [**]
+[Classification: Misc activity] [Priority: 3] 
+10/06-11:19:12.059093 00:0C:29:A5:B7:A2 -> 00:50:56:E1:9B:9D type:0x800 len:0x62
+192.168.175.129 -> 142.250.187.110 ICMP TTL:64 TOS:0x0 ID:952 IpLen:20 DgmLen:84 DF
+Type:8  Code:0  ID:12   Seq:3  ECHO
+
+[**] [1:384:5] ICMP PING [**]
+[Classification: Misc activity] [Priority: 3] 
+10/06-11:19:12.059093 00:0C:29:A5:B7:A2 -> 00:50:56:E1:9B:9D type:0x800 len:0x62
+192.168.175.129 -> 142.250.187.110 ICMP TTL:64 TOS:0x0 ID:952 IpLen:20 DgmLen:84 DF
+Type:8  Code:0  ID:12   Seq:3  ECHO
+
+[**] [1:408:5] ICMP Echo Reply [**]
+[Classification: Misc activity] [Priority: 3] 
+10/06-11:19:12.085255 00:50:56:E1:9B:9D -> 00:0C:29:A5:B7:A2 type:0x800 len:0x62
+142.250.187.110 -> 192.168.175.129 ICMP TTL:128 TOS:0x0 ID:25795 IpLen:20 DgmLen:84
+Type:0  Code:0  ID:12  Seq:3  ECHO REPLY
+
+[**] [1:366:7] ICMP PING *NIX [**]
+[Classification: Misc activity] [Priority: 3] 
+10/06-11:19:12.111466 00:0C:29:A5:B7:A2 -> 00:50:56:E1:9B:9D type:0x800 len:0x62
+192.168.175.129 -> 142.250.187.110 ICMP TTL:64 TOS:0x0 ID:1124 IpLen:20 DgmLen:84 DF
+Type:8  Code:0  ID:12   Seq:4  ECHO
+
+[**] [1:384:5] ICMP PING [**]
+[Classification: Misc activity] [Priority: 3] 
+10/06-11:19:12.111466 00:0C:29:A5:B7:A2 -> 00:50:56:E1:9B:9D type:0x800 len:0x62
+192.168.175.129 -> 142.250.187.110 ICMP TTL:64 TOS:0x0 ID:1124 IpLen:20 DgmLen:84 DF
+Type:8  Code:0  ID:12   Seq:4  ECHO
+
+[**] [1:408:5] ICMP Echo Reply [**]
+[Classification: Misc activity] [Priority: 3] 
+10/06-11:19:12.137602 00:50:56:E1:9B:9D -> 00:0C:29:A5:B7:A2 type:0x800 len:0x62
+142.250.187.110 -> 192.168.175.129 ICMP TTL:128 TOS:0x0 ID:25796 IpLen:20 DgmLen:84
+Type:0  Code:0  ID:12  Seq:4  ECHO REPLY
+
+[**] [1:366:7] ICMP PING *NIX [**]
+[Classification: Misc activity] [Priority: 3] 
+10/06-11:19:12.163730 00:0C:29:A5:B7:A2 -> 00:50:56:E1:9B:9D type:0x800 len:0x62
+192.168.175.129 -> 142.250.187.110 ICMP TTL:64 TOS:0x0 ID:1300 IpLen:20 DgmLen:84 DF
+Type:8  Code:0  ID:12   Seq:5  ECHO
+
+[**] [1:384:5] ICMP PING [**]
+[Classification: Misc activity] [Priority: 3] 
+10/06-11:19:12.163730 00:0C:29:A5:B7:A2 -> 00:50:56:E1:9B:9D type:0x800 len:0x62
+192.168.175.129 -> 142.250.187.110 ICMP TTL:64 TOS:0x0 ID:1300 IpLen:20 DgmLen:84 DF
+Type:8  Code:0  ID:12   Seq:5  ECHO
+
+[**] [1:408:5] ICMP Echo Reply [**]
+[Classification: Misc activity] [Priority: 3] 
+10/06-11:19:12.189851 00:50:56:E1:9B:9D -> 00:0C:29:A5:B7:A2 type:0x800 len:0x62
+142.250.187.110 -> 192.168.175.129 ICMP TTL:128 TOS:0x0 ID:25797 IpLen:20 DgmLen:84
+Type:0  Code:0  ID:12  Seq:5  ECHO REPLY
+
+[**] [1:366:7] ICMP PING *NIX [**]
+[Classification: Misc activity] [Priority: 3] 
+10/06-11:19:12.216240 00:0C:29:A5:B7:A2 -> 00:50:56:E1:9B:9D type:0x800 len:0x62
+192.168.175.129 -> 142.250.187.110 ICMP TTL:64 TOS:0x0 ID:1493 IpLen:20 DgmLen:84 DF
+Type:8  Code:0  ID:12   Seq:6  ECHO
+
+[**] [1:384:5] ICMP PING [**]
+[Classification: Misc activity] [Priority: 3] 
+10/06-11:19:12.216240 00:0C:29:A5:B7:A2 -> 00:50:56:E1:9B:9D type:0x800 len:0x62
+192.168.175.129 -> 142.250.187.110 ICMP TTL:64 TOS:0x0 ID:1493 IpLen:20 DgmLen:84 DF
+Type:8  Code:0  ID:12   Seq:6  ECHO
+
+[**] [1:408:5] ICMP Echo Reply [**]
+[Classification: Misc activity] [Priority: 3] 
+10/06-11:19:12.242363 00:50:56:E1:9B:9D -> 00:0C:29:A5:B7:A2 type:0x800 len:0x62
+142.250.187.110 -> 192.168.175.129 ICMP TTL:128 TOS:0x0 ID:25798 IpLen:20 DgmLen:84
+Type:0  Code:0  ID:12  Seq:6  ECHO REPLY
+
+[**] [1:366:7] ICMP PING *NIX [**]
+[Classification: Misc activity] [Priority: 3] 
+10/06-11:19:12.268197 00:0C:29:A5:B7:A2 -> 00:50:56:E1:9B:9D type:0x800 len:0x62
+192.168.175.129 -> 142.250.187.110 ICMP TTL:64 TOS:0x0 ID:1599 IpLen:20 DgmLen:84 DF
+Type:8  Code:0  ID:12   Seq:7  ECHO
+
+[**] [1:384:5] ICMP PING [**]
+[Classification: Misc activity] [Priority: 3] 
+10/06-11:19:12.268197 00:0C:29:A5:B7:A2 -> 00:50:56:E1:9B:9D type:0x800 len:0x62
+192.168.175.129 -> 142.250.187.110 ICMP TTL:64 TOS:0x0 ID:1599 IpLen:20 DgmLen:84 DF
+Type:8  Code:0  ID:12   Seq:7  ECHO
+
+[**] [1:408:5] ICMP Echo Reply [**]
+[Classification: Misc activity] [Priority: 3] 
+10/06-11:19:12.294333 00:50:56:E1:9B:9D -> 00:0C:29:A5:B7:A2 type:0x800 len:0x62
+142.250.187.110 -> 192.168.175.129 ICMP TTL:128 TOS:0x0 ID:25799 IpLen:20 DgmLen:84
+Type:0  Code:0  ID:12  Seq:7  ECHO REPLY
+
+[**] [1:366:7] ICMP PING *NIX [**]
+[Classification: Misc activity] [Priority: 3] 
+10/06-11:19:12.320472 00:0C:29:A5:B7:A2 -> 00:50:56:E1:9B:9D type:0x800 len:0x62
+192.168.175.129 -> 142.250.187.110 ICMP TTL:64 TOS:0x0 ID:1722 IpLen:20 DgmLen:84 DF
+Type:8  Code:0  ID:12   Seq:8  ECHO
+
+[**] [1:384:5] ICMP PING [**]
+[Classification: Misc activity] [Priority: 3] 
+10/06-11:19:12.320472 00:0C:29:A5:B7:A2 -> 00:50:56:E1:9B:9D type:0x800 len:0x62
+192.168.175.129 -> 142.250.187.110 ICMP TTL:64 TOS:0x0 ID:1722 IpLen:20 DgmLen:84 DF
+Type:8  Code:0  ID:12   Seq:8  ECHO
+
+[**] [1:408:5] ICMP Echo Reply [**]
+[Classification: Misc activity] [Priority: 3] 
+10/06-11:19:12.346571 00:50:56:E1:9B:9D -> 00:0C:29:A5:B7:A2 type:0x800 len:0x62
+142.250.187.110 -> 192.168.175.129 ICMP TTL:128 TOS:0x0 ID:25800 IpLen:20 DgmLen:84
+Type:0  Code:0  ID:12  Seq:8  ECHO REPLY
+
+[**] [1:366:7] ICMP PING *NIX [**]
+[Classification: Misc activity] [Priority: 3] 
+10/06-11:19:12.372663 00:0C:29:A5:B7:A2 -> 00:50:56:E1:9B:9D type:0x800 len:0x62
+192.168.175.129 -> 142.250.187.110 ICMP TTL:64 TOS:0x0 ID:1847 IpLen:20 DgmLen:84 DF
+Type:8  Code:0  ID:12   Seq:9  ECHO
+
+[**] [1:384:5] ICMP PING [**]
+[Classification: Misc activity] [Priority: 3] 
+10/06-11:19:12.372663 00:0C:29:A5:B7:A2 -> 00:50:56:E1:9B:9D type:0x800 len:0x62
+192.168.175.129 -> 142.250.187.110 ICMP TTL:64 TOS:0x0 ID:1847 IpLen:20 DgmLen:84 DF
+Type:8  Code:0  ID:12   Seq:9  ECHO
+
+[**] [1:408:5] ICMP Echo Reply [**]
+[Classification: Misc activity] [Priority: 3] 
+10/06-11:19:12.398831 00:50:56:E1:9B:9D -> 00:0C:29:A5:B7:A2 type:0x800 len:0x62
+142.250.187.110 -> 192.168.175.129 ICMP TTL:128 TOS:0x0 ID:25801 IpLen:20 DgmLen:84
+Type:0  Code:0  ID:12  Seq:9  ECHO REPLY
+
+[**] [1:366:7] ICMP PING *NIX [**]
+[Classification: Misc activity] [Priority: 3] 
+10/06-11:19:12.425023 00:0C:29:A5:B7:A2 -> 00:50:56:E1:9B:9D type:0x800 len:0x62
+192.168.175.129 -> 142.250.187.110 ICMP TTL:64 TOS:0x0 ID:1982 IpLen:20 DgmLen:84 DF
+Type:8  Code:0  ID:12   Seq:10  ECHO
+
+[**] [1:384:5] ICMP PING [**]
+[Classification: Misc activity] [Priority: 3] 
+10/06-11:19:12.425023 00:0C:29:A5:B7:A2 -> 00:50:56:E1:9B:9D type:0x800 len:0x62
+192.168.175.129 -> 142.250.187.110 ICMP TTL:64 TOS:0x0 ID:1982 IpLen:20 DgmLen:84 DF
+Type:8  Code:0  ID:12   Seq:10  ECHO
+
+[**] [1:408:5] ICMP Echo Reply [**]
+[Classification: Misc activity] [Priority: 3] 
+10/06-11:19:12.451121 00:50:56:E1:9B:9D -> 00:0C:29:A5:B7:A2 type:0x800 len:0x62
+142.250.187.110 -> 192.168.175.129 ICMP TTL:128 TOS:0x0 ID:25802 IpLen:20 DgmLen:84
+Type:0  Code:0  ID:12  Seq:10  ECHO REPLY
+
+[**] [1:366:7] ICMP PING *NIX [**]
+[Classification: Misc activity] [Priority: 3] 
+10/06-11:19:12.477253 00:0C:29:A5:B7:A2 -> 00:50:56:E1:9B:9D type:0x800 len:0x62
+192.168.175.129 -> 142.250.187.110 ICMP TTL:64 TOS:0x0 ID:2120 IpLen:20 DgmLen:84 DF
+Type:8  Code:0  ID:12   Seq:11  ECHO
+
+[**] [1:384:5] ICMP PING [**]
+[Classification: Misc activity] [Priority: 3] 
+10/06-11:19:12.477253 00:0C:29:A5:B7:A2 -> 00:50:56:E1:9B:9D type:0x800 len:0x62
+192.168.175.129 -> 142.250.187.110 ICMP TTL:64 TOS:0x0 ID:2120 IpLen:20 DgmLen:84 DF
+Type:8  Code:0  ID:12   Seq:11  ECHO
+
+[**] [1:408:5] ICMP Echo Reply [**]
+[Classification: Misc activity] [Priority: 3] 
+10/06-11:19:12.503369 00:50:56:E1:9B:9D -> 00:0C:29:A5:B7:A2 type:0x800 len:0x62
+142.250.187.110 -> 192.168.175.129 ICMP TTL:128 TOS:0x0 ID:25803 IpLen:20 DgmLen:84
+Type:0  Code:0  ID:12  Seq:11  ECHO REPLY
+
+[**] [1:366:7] ICMP PING *NIX [**]
+[Classification: Misc activity] [Priority: 3] 
+10/06-11:19:12.529461 00:0C:29:A5:B7:A2 -> 00:50:56:E1:9B:9D type:0x800 len:0x62
+192.168.175.129 -> 142.250.187.110 ICMP TTL:64 TOS:0x0 ID:2189 IpLen:20 DgmLen:84 DF
+Type:8  Code:0  ID:12   Seq:12  ECHO
+
+[**] [1:384:5] ICMP PING [**]
+[Classification: Misc activity] [Priority: 3] 
+10/06-11:19:12.529461 00:0C:29:A5:B7:A2 -> 00:50:56:E1:9B:9D type:0x800 len:0x62
+192.168.175.129 -> 142.250.187.110 ICMP TTL:64 TOS:0x0 ID:2189 IpLen:20 DgmLen:84 DF
+Type:8  Code:0  ID:12   Seq:12  ECHO
+
+[**] [1:408:5] ICMP Echo Reply [**]
+[Classification: Misc activity] [Priority: 3] 
+10/06-11:19:12.555649 00:50:56:E1:9B:9D -> 00:0C:29:A5:B7:A2 type:0x800 len:0x62
+142.250.187.110 -> 192.168.175.129 ICMP TTL:128 TOS:0x0 ID:25804 IpLen:20 DgmLen:84
+Type:0  Code:0  ID:12  Seq:12  ECHO REPLY
+
+[**] [1:366:7] ICMP PING *NIX [**]
+[Classification: Misc activity] [Priority: 3] 
+10/06-11:19:12.581837 00:0C:29:A5:B7:A2 -> 00:50:56:E1:9B:9D type:0x800 len:0x62
+192.168.175.129 -> 142.250.187.110 ICMP TTL:64 TOS:0x0 ID:2228 IpLen:20 DgmLen:84 DF
+Type:8  Code:0  ID:12   Seq:13  ECHO
+
+[**] [1:384:5] ICMP PING [**]
+[Classification: Misc activity] [Priority: 3] 
+10/06-11:19:12.581837 00:0C:29:A5:B7:A2 -> 00:50:56:E1:9B:9D type:0x800 len:0x62
+192.168.175.129 -> 142.250.187.110 ICMP TTL:64 TOS:0x0 ID:2228 IpLen:20 DgmLen:84 DF
+Type:8  Code:0  ID:12   Seq:13  ECHO
+
+[**] [1:408:5] ICMP Echo Reply [**]
+[Classification: Misc activity] [Priority: 3] 
+10/06-11:19:12.607983 00:50:56:E1:9B:9D -> 00:0C:29:A5:B7:A2 type:0x800 len:0x62
+142.250.187.110 -> 192.168.175.129 ICMP TTL:128 TOS:0x0 ID:25805 IpLen:20 DgmLen:84
+Type:0  Code:0  ID:12  Seq:13  ECHO REPLY
+
+[**] [1:366:7] ICMP PING *NIX [**]
+[Classification: Misc activity] [Priority: 3] 
+10/06-11:19:12.634095 00:0C:29:A5:B7:A2 -> 00:50:56:E1:9B:9D type:0x800 len:0x62
+192.168.175.129 -> 142.250.187.110 ICMP TTL:64 TOS:0x0 ID:2434 IpLen:20 DgmLen:84 DF
+Type:8  Code:0  ID:12   Seq:14  ECHO
+
+[**] [1:384:5] ICMP PING [**]
+[Classification: Misc activity] [Priority: 3] 
+10/06-11:19:12.634095 00:0C:29:A5:B7:A2 -> 00:50:56:E1:9B:9D type:0x800 len:0x62
+192.168.175.129 -> 142.250.187.110 ICMP TTL:64 TOS:0x0 ID:2434 IpLen:20 DgmLen:84 DF
+Type:8  Code:0  ID:12   Seq:14  ECHO
+
+[**] [1:408:5] ICMP Echo Reply [**]
+[Classification: Misc activity] [Priority: 3] 
+10/06-11:19:12.660182 00:50:56:E1:9B:9D -> 00:0C:29:A5:B7:A2 type:0x800 len:0x62
+142.250.187.110 -> 192.168.175.129 ICMP TTL:128 TOS:0x0 ID:25806 IpLen:20 DgmLen:84
+Type:0  Code:0  ID:12  Seq:14  ECHO REPLY
+
+[**] [1:366:7] ICMP PING *NIX [**]
+[Classification: Misc activity] [Priority: 3] 
+10/06-11:19:12.686267 00:0C:29:A5:B7:A2 -> 00:50:56:E1:9B:9D type:0x800 len:0x62
+192.168.175.129 -> 142.250.187.110 ICMP TTL:64 TOS:0x0 ID:2439 IpLen:20 DgmLen:84 DF
+Type:8  Code:0  ID:12   Seq:15  ECHO
+
+[**] [1:384:5] ICMP PING [**]
+[Classification: Misc activity] [Priority: 3] 
+10/06-11:19:12.686267 00:0C:29:A5:B7:A2 -> 00:50:56:E1:9B:9D type:0x800 len:0x62
+192.168.175.129 -> 142.250.187.110 ICMP TTL:64 TOS:0x0 ID:2439 IpLen:20 DgmLen:84 DF
+Type:8  Code:0  ID:12   Seq:15  ECHO
+
+[**] [1:408:5] ICMP Echo Reply [**]
+[Classification: Misc activity] [Priority: 3] 
+10/06-11:19:12.712458 00:50:56:E1:9B:9D -> 00:0C:29:A5:B7:A2 type:0x800 len:0x62
+142.250.187.110 -> 192.168.175.129 ICMP TTL:128 TOS:0x0 ID:25807 IpLen:20 DgmLen:84
+Type:0  Code:0  ID:12  Seq:15  ECHO REPLY
+
+[**] [1:366:7] ICMP PING *NIX [**]
+[Classification: Misc activity] [Priority: 3] 
+10/06-11:19:12.738638 00:0C:29:A5:B7:A2 -> 00:50:56:E1:9B:9D type:0x800 len:0x62
+192.168.175.129 -> 142.250.187.110 ICMP TTL:64 TOS:0x0 ID:2632 IpLen:20 DgmLen:84 DF
+Type:8  Code:0  ID:12   Seq:16  ECHO
+
+[**] [1:384:5] ICMP PING [**]
+[Classification: Misc activity] [Priority: 3] 
+10/06-11:19:12.738638 00:0C:29:A5:B7:A2 -> 00:50:56:E1:9B:9D type:0x800 len:0x62
+192.168.175.129 -> 142.250.187.110 ICMP TTL:64 TOS:0x0 ID:2632 IpLen:20 DgmLen:84 DF
+Type:8  Code:0  ID:12   Seq:16  ECHO
+
+[**] [1:408:5] ICMP Echo Reply [**]
+[Classification: Misc activity] [Priority: 3] 
+10/06-11:19:12.764746 00:50:56:E1:9B:9D -> 00:0C:29:A5:B7:A2 type:0x800 len:0x62
+142.250.187.110 -> 192.168.175.129 ICMP TTL:128 TOS:0x0 ID:25808 IpLen:20 DgmLen:84
+Type:0  Code:0  ID:12  Seq:16  ECHO REPLY
+
+[**] [1:366:7] ICMP PING *NIX [**]
+[Classification: Misc activity] [Priority: 3] 
+10/06-11:19:12.790895 00:0C:29:A5:B7:A2 -> 00:50:56:E1:9B:9D type:0x800 len:0x62
+192.168.175.129 -> 172.67.27.10 ICMP TTL:64 TOS:0x0 ID:62247 IpLen:20 DgmLen:84 DF
+Type:8  Code:0  ID:13   Seq:1  ECHO
+
+[**] [1:384:5] ICMP PING [**]
+[Classification: Misc activity] [Priority: 3] 
+10/06-11:19:12.790895 00:0C:29:A5:B7:A2 -> 00:50:56:E1:9B:9D type:0x800 len:0x62
+192.168.175.129 -> 172.67.27.10 ICMP TTL:64 TOS:0x0 ID:62247 IpLen:20 DgmLen:84 DF
+Type:8  Code:0  ID:13   Seq:1  ECHO
+
+[**] [1:408:5] ICMP Echo Reply [**]
+[Classification: Misc activity] [Priority: 3] 
+10/06-11:19:12.816988 00:50:56:E1:9B:9D -> 00:0C:29:A5:B7:A2 type:0x800 len:0x62
+172.67.27.10 -> 192.168.175.129 ICMP TTL:128 TOS:0x0 ID:25812 IpLen:20 DgmLen:84
+Type:0  Code:0  ID:13  Seq:1  ECHO REPLY
+
+[**] [1:366:7] ICMP PING *NIX [**]
+[Classification: Misc activity] [Priority: 3] 
+10/06-11:19:12.843069 00:0C:29:A5:B7:A2 -> 00:50:56:E1:9B:9D type:0x800 len:0x62
+192.168.175.129 -> 172.67.27.10 ICMP TTL:64 TOS:0x0 ID:62473 IpLen:20 DgmLen:84 DF
+Type:8  Code:0  ID:13   Seq:2  ECHO
+
+[**] [1:384:5] ICMP PING [**]
+[Classification: Misc activity] [Priority: 3] 
+10/06-11:19:12.843069 00:0C:29:A5:B7:A2 -> 00:50:56:E1:9B:9D type:0x800 len:0x62
+192.168.175.129 -> 172.67.27.10 ICMP TTL:64 TOS:0x0 ID:62473 IpLen:20 DgmLen:84 DF
+Type:8  Code:0  ID:13   Seq:2  ECHO
+
+[**] [1:408:5] ICMP Echo Reply [**]
+[Classification: Misc activity] [Priority: 3] 
+10/06-11:19:12.869254 00:50:56:E1:9B:9D -> 00:0C:29:A5:B7:A2 type:0x800 len:0x62
+172.67.27.10 -> 192.168.175.129 ICMP TTL:128 TOS:0x0 ID:25814 IpLen:20 DgmLen:84
+Type:0  Code:0  ID:13  Seq:2  ECHO REPLY
+
+[**] [1:366:7] ICMP PING *NIX [**]
+[Classification: Misc activity] [Priority: 3] 
+10/06-11:19:12.895444 00:0C:29:A5:B7:A2 -> 00:50:56:E1:9B:9D type:0x800 len:0x62
+192.168.175.129 -> 172.67.27.10 ICMP TTL:64 TOS:0x0 ID:62509 IpLen:20 DgmLen:84 DF
+Type:8  Code:0  ID:13   Seq:3  ECHO
+
+[**] [1:384:5] ICMP PING [**]
+[Classification: Misc activity] [Priority: 3] 
+10/06-11:19:12.895444 00:0C:29:A5:B7:A2 -> 00:50:56:E1:9B:9D type:0x800 len:0x62
+192.168.175.129 -> 172.67.27.10 ICMP TTL:64 TOS:0x0 ID:62509 IpLen:20 DgmLen:84 DF
+Type:8  Code:0  ID:13   Seq:3  ECHO
+
+[**] [1:408:5] ICMP Echo Reply [**]
+[Classification: Misc activity] [Priority: 3] 
+10/06-11:19:12.921549 00:50:56:E1:9B:9D -> 00:0C:29:A5:B7:A2 type:0x800 len:0x62
+172.67.27.10 -> 192.168.175.129 ICMP TTL:128 TOS:0x0 ID:25815 IpLen:20 DgmLen:84
+Type:0  Code:0  ID:13  Seq:3  ECHO REPLY
+
+[**] [1:366:7] ICMP PING *NIX [**]
+[Classification: Misc activity] [Priority: 3] 
+10/06-11:19:12.947666 00:0C:29:A5:B7:A2 -> 00:50:56:E1:9B:9D type:0x800 len:0x62
+192.168.175.129 -> 172.67.27.10 ICMP TTL:64 TOS:0x0 ID:62714 IpLen:20 DgmLen:84 DF
+Type:8  Code:0  ID:13   Seq:4  ECHO
+
+[**] [1:100000023:1] ”SMURF FLOODING ATTACK DETECTED” [**]
+[Priority: 0] 
+10/06-11:19:12.947666 00:0C:29:A5:B7:A2 -> 00:50:56:E1:9B:9D type:0x800 len:0x62
+192.168.175.129 -> 172.67.27.10 ICMP TTL:64 TOS:0x0 ID:62714 IpLen:20 DgmLen:84 DF
+Type:8  Code:0  ID:13   Seq:4  ECHO
+
+[**] [1:384:5] ICMP PING [**]
+[Classification: Misc activity] [Priority: 3] 
+10/06-11:19:12.947666 00:0C:29:A5:B7:A2 -> 00:50:56:E1:9B:9D type:0x800 len:0x62
+192.168.175.129 -> 172.67.27.10 ICMP TTL:64 TOS:0x0 ID:62714 IpLen:20 DgmLen:84 DF
+Type:8  Code:0  ID:13   Seq:4  ECHO
+
+[**] [1:408:5] ICMP Echo Reply [**]
+[Classification: Misc activity] [Priority: 3] 
+10/06-11:19:12.973776 00:50:56:E1:9B:9D -> 00:0C:29:A5:B7:A2 type:0x800 len:0x62
+172.67.27.10 -> 192.168.175.129 ICMP TTL:128 TOS:0x0 ID:25816 IpLen:20 DgmLen:84
+Type:0  Code:0  ID:13  Seq:4  ECHO REPLY
+
+[**] [1:366:7] ICMP PING *NIX [**]
+[Classification: Misc activity] [Priority: 3] 
+10/06-11:19:12.999873 00:0C:29:A5:B7:A2 -> 00:50:56:E1:9B:9D type:0x800 len:0x62
+192.168.175.129 -> 172.67.27.10 ICMP TTL:64 TOS:0x0 ID:62802 IpLen:20 DgmLen:84 DF
+Type:8  Code:0  ID:13   Seq:5  ECHO
+
+[**] [1:384:5] ICMP PING [**]
+[Classification: Misc activity] [Priority: 3] 
+10/06-11:19:12.999873 00:0C:29:A5:B7:A2 -> 00:50:56:E1:9B:9D type:0x800 len:0x62
+192.168.175.129 -> 172.67.27.10 ICMP TTL:64 TOS:0x0 ID:62802 IpLen:20 DgmLen:84 DF
+Type:8  Code:0  ID:13   Seq:5  ECHO
+
+[**] [1:408:5] ICMP Echo Reply [**]
+[Classification: Misc activity] [Priority: 3] 
+10/06-11:19:13.026072 00:50:56:E1:9B:9D -> 00:0C:29:A5:B7:A2 type:0x800 len:0x62
+172.67.27.10 -> 192.168.175.129 ICMP TTL:128 TOS:0x0 ID:25817 IpLen:20 DgmLen:84
+Type:0  Code:0  ID:13  Seq:5  ECHO REPLY
+
+[**] [1:366:7] ICMP PING *NIX [**]
+[Classification: Misc activity] [Priority: 3] 
+10/06-11:19:13.052258 00:0C:29:A5:B7:A2 -> 00:50:56:E1:9B:9D type:0x800 len:0x62
+192.168.175.129 -> 172.67.27.10 ICMP TTL:64 TOS:0x0 ID:62939 IpLen:20 DgmLen:84 DF
+Type:8  Code:0  ID:13   Seq:6  ECHO
+
+[**] [1:384:5] ICMP PING [**]
+[Classification: Misc activity] [Priority: 3] 
+10/06-11:19:13.052258 00:0C:29:A5:B7:A2 -> 00:50:56:E1:9B:9D type:0x800 len:0x62
+192.168.175.129 -> 172.67.27.10 ICMP TTL:64 TOS:0x0 ID:62939 IpLen:20 DgmLen:84 DF
+Type:8  Code:0  ID:13   Seq:6  ECHO
+
+[**] [1:408:5] ICMP Echo Reply [**]
+[Classification: Misc activity] [Priority: 3] 
+10/06-11:19:13.078461 00:50:56:E1:9B:9D -> 00:0C:29:A5:B7:A2 type:0x800 len:0x62
+172.67.27.10 -> 192.168.175.129 ICMP TTL:128 TOS:0x0 ID:25818 IpLen:20 DgmLen:84
+Type:0  Code:0  ID:13  Seq:6  ECHO REPLY
+
+[**] [1:366:7] ICMP PING *NIX [**]
+[Classification: Misc activity] [Priority: 3] 
+10/06-11:19:13.105477 00:0C:29:A5:B7:A2 -> 00:50:56:E1:9B:9D type:0x800 len:0x62
+192.168.175.129 -> 172.67.27.10 ICMP TTL:64 TOS:0x0 ID:63155 IpLen:20 DgmLen:84 DF
+Type:8  Code:0  ID:13   Seq:7  ECHO
+
+[**] [1:384:5] ICMP PING [**]
+[Classification: Misc activity] [Priority: 3] 
+10/06-11:19:13.105477 00:0C:29:A5:B7:A2 -> 00:50:56:E1:9B:9D type:0x800 len:0x62
+192.168.175.129 -> 172.67.27.10 ICMP TTL:64 TOS:0x0 ID:63155 IpLen:20 DgmLen:84 DF
+Type:8  Code:0  ID:13   Seq:7  ECHO
+
+[**] [1:408:5] ICMP Echo Reply [**]
+[Classification: Misc activity] [Priority: 3] 
+10/06-11:19:13.130635 00:50:56:E1:9B:9D -> 00:0C:29:A5:B7:A2 type:0x800 len:0x62
+172.67.27.10 -> 192.168.175.129 ICMP TTL:128 TOS:0x0 ID:25819 IpLen:20 DgmLen:84
+Type:0  Code:0  ID:13  Seq:7  ECHO REPLY
+
+[**] [1:366:7] ICMP PING *NIX [**]
+[Classification: Misc activity] [Priority: 3] 
+10/06-11:19:13.156796 00:0C:29:A5:B7:A2 -> 00:50:56:E1:9B:9D type:0x800 len:0x62
+192.168.175.129 -> 172.67.27.10 ICMP TTL:64 TOS:0x0 ID:63329 IpLen:20 DgmLen:84 DF
+Type:8  Code:0  ID:13   Seq:8  ECHO
+
+[**] [1:384:5] ICMP PING [**]
+[Classification: Misc activity] [Priority: 3] 
+10/06-11:19:13.156796 00:0C:29:A5:B7:A2 -> 00:50:56:E1:9B:9D type:0x800 len:0x62
+192.168.175.129 -> 172.67.27.10 ICMP TTL:64 TOS:0x0 ID:63329 IpLen:20 DgmLen:84 DF
+Type:8  Code:0  ID:13   Seq:8  ECHO
+
+[**] [1:408:5] ICMP Echo Reply [**]
+[Classification: Misc activity] [Priority: 3] 
+10/06-11:19:13.182876 00:50:56:E1:9B:9D -> 00:0C:29:A5:B7:A2 type:0x800 len:0x62
+172.67.27.10 -> 192.168.175.129 ICMP TTL:128 TOS:0x0 ID:25820 IpLen:20 DgmLen:84
+Type:0  Code:0  ID:13  Seq:8  ECHO REPLY
+
+[**] [1:366:7] ICMP PING *NIX [**]
+[Classification: Misc activity] [Priority: 3] 
+10/06-11:19:13.209032 00:0C:29:A5:B7:A2 -> 00:50:56:E1:9B:9D type:0x800 len:0x62
+192.168.175.129 -> 172.67.27.10 ICMP TTL:64 TOS:0x0 ID:63568 IpLen:20 DgmLen:84 DF
+Type:8  Code:0  ID:13   Seq:9  ECHO
+
+[**] [1:384:5] ICMP PING [**]
+[Classification: Misc activity] [Priority: 3] 
+10/06-11:19:13.209032 00:0C:29:A5:B7:A2 -> 00:50:56:E1:9B:9D type:0x800 len:0x62
+192.168.175.129 -> 172.67.27.10 ICMP TTL:64 TOS:0x0 ID:63568 IpLen:20 DgmLen:84 DF
+Type:8  Code:0  ID:13   Seq:9  ECHO
+
+[**] [1:408:5] ICMP Echo Reply [**]
+[Classification: Misc activity] [Priority: 3] 
+10/06-11:19:13.235193 00:50:56:E1:9B:9D -> 00:0C:29:A5:B7:A2 type:0x800 len:0x62
+172.67.27.10 -> 192.168.175.129 ICMP TTL:128 TOS:0x0 ID:25821 IpLen:20 DgmLen:84
+Type:0  Code:0  ID:13  Seq:9  ECHO REPLY
+
+[**] [1:366:7] ICMP PING *NIX [**]
+[Classification: Misc activity] [Priority: 3] 
+10/06-11:19:13.261255 00:0C:29:A5:B7:A2 -> 00:50:56:E1:9B:9D type:0x800 len:0x62
+192.168.175.129 -> 172.67.27.10 ICMP TTL:64 TOS:0x0 ID:63605 IpLen:20 DgmLen:84 DF
+Type:8  Code:0  ID:13   Seq:10  ECHO
+
+[**] [1:384:5] ICMP PING [**]
+[Classification: Misc activity] [Priority: 3] 
+10/06-11:19:13.261255 00:0C:29:A5:B7:A2 -> 00:50:56:E1:9B:9D type:0x800 len:0x62
+192.168.175.129 -> 172.67.27.10 ICMP TTL:64 TOS:0x0 ID:63605 IpLen:20 DgmLen:84 DF
+Type:8  Code:0  ID:13   Seq:10  ECHO
+
+[**] [1:408:5] ICMP Echo Reply [**]
+[Classification: Misc activity] [Priority: 3] 
+10/06-11:19:13.287438 00:50:56:E1:9B:9D -> 00:0C:29:A5:B7:A2 type:0x800 len:0x62
+172.67.27.10 -> 192.168.175.129 ICMP TTL:128 TOS:0x0 ID:25822 IpLen:20 DgmLen:84
+Type:0  Code:0  ID:13  Seq:10  ECHO REPLY
+
+[**] [1:366:7] ICMP PING *NIX [**]
+[Classification: Misc activity] [Priority: 3] 
+10/06-11:19:13.313579 00:0C:29:A5:B7:A2 -> 00:50:56:E1:9B:9D type:0x800 len:0x62
+192.168.175.129 -> 172.67.27.10 ICMP TTL:64 TOS:0x0 ID:63664 IpLen:20 DgmLen:84 DF
+Type:8  Code:0  ID:13   Seq:11  ECHO
+
+[**] [1:384:5] ICMP PING [**]
+[Classification: Misc activity] [Priority: 3] 
+10/06-11:19:13.313579 00:0C:29:A5:B7:A2 -> 00:50:56:E1:9B:9D type:0x800 len:0x62
+192.168.175.129 -> 172.67.27.10 ICMP TTL:64 TOS:0x0 ID:63664 IpLen:20 DgmLen:84 DF
+Type:8  Code:0  ID:13   Seq:11  ECHO
+
+[**] [1:408:5] ICMP Echo Reply [**]
+[Classification: Misc activity] [Priority: 3] 
+10/06-11:19:13.339651 00:50:56:E1:9B:9D -> 00:0C:29:A5:B7:A2 type:0x800 len:0x62
+172.67.27.10 -> 192.168.175.129 ICMP TTL:128 TOS:0x0 ID:25823 IpLen:20 DgmLen:84
+Type:0  Code:0  ID:13  Seq:11  ECHO REPLY
+
+[**] [1:366:7] ICMP PING *NIX [**]
+[Classification: Misc activity] [Priority: 3] 
+10/06-11:19:13.365854 00:0C:29:A5:B7:A2 -> 00:50:56:E1:9B:9D type:0x800 len:0x62
+192.168.175.129 -> 172.67.27.10 ICMP TTL:64 TOS:0x0 ID:63727 IpLen:20 DgmLen:84 DF
+Type:8  Code:0  ID:13   Seq:12  ECHO
+
+[**] [1:384:5] ICMP PING [**]
+[Classification: Misc activity] [Priority: 3] 
+10/06-11:19:13.365854 00:0C:29:A5:B7:A2 -> 00:50:56:E1:9B:9D type:0x800 len:0x62
+192.168.175.129 -> 172.67.27.10 ICMP TTL:64 TOS:0x0 ID:63727 IpLen:20 DgmLen:84 DF
+Type:8  Code:0  ID:13   Seq:12  ECHO
+
+[**] [1:408:5] ICMP Echo Reply [**]
+[Classification: Misc activity] [Priority: 3] 
+10/06-11:19:13.392015 00:50:56:E1:9B:9D -> 00:0C:29:A5:B7:A2 type:0x800 len:0x62
+172.67.27.10 -> 192.168.175.129 ICMP TTL:128 TOS:0x0 ID:25824 IpLen:20 DgmLen:84
+Type:0  Code:0  ID:13  Seq:12  ECHO REPLY
+
+[**] [1:366:7] ICMP PING *NIX [**]
+[Classification: Misc activity] [Priority: 3] 
+10/06-11:19:13.418109 00:0C:29:A5:B7:A2 -> 00:50:56:E1:9B:9D type:0x800 len:0x62
+192.168.175.129 -> 172.67.27.10 ICMP TTL:64 TOS:0x0 ID:63935 IpLen:20 DgmLen:84 DF
+Type:8  Code:0  ID:13   Seq:13  ECHO
+
+[**] [1:384:5] ICMP PING [**]
+[Classification: Misc activity] [Priority: 3] 
+10/06-11:19:13.418109 00:0C:29:A5:B7:A2 -> 00:50:56:E1:9B:9D type:0x800 len:0x62
+192.168.175.129 -> 172.67.27.10 ICMP TTL:64 TOS:0x0 ID:63935 IpLen:20 DgmLen:84 DF
+Type:8  Code:0  ID:13   Seq:13  ECHO
+
+[**] [1:408:5] ICMP Echo Reply [**]
+[Classification: Misc activity] [Priority: 3] 
+10/06-11:19:13.444228 00:50:56:E1:9B:9D -> 00:0C:29:A5:B7:A2 type:0x800 len:0x62
+172.67.27.10 -> 192.168.175.129 ICMP TTL:128 TOS:0x0 ID:25825 IpLen:20 DgmLen:84
+Type:0  Code:0  ID:13  Seq:13  ECHO REPLY
+
+[**] [1:366:7] ICMP PING *NIX [**]
+[Classification: Misc activity] [Priority: 3] 
+10/06-11:19:13.470333 00:0C:29:A5:B7:A2 -> 00:50:56:E1:9B:9D type:0x800 len:0x62
+192.168.175.129 -> 172.67.27.10 ICMP TTL:64 TOS:0x0 ID:64182 IpLen:20 DgmLen:84 DF
+Type:8  Code:0  ID:13   Seq:14  ECHO
+
+[**] [1:384:5] ICMP PING [**]
+[Classification: Misc activity] [Priority: 3] 
+10/06-11:19:13.470333 00:0C:29:A5:B7:A2 -> 00:50:56:E1:9B:9D type:0x800 len:0x62
+192.168.175.129 -> 172.67.27.10 ICMP TTL:64 TOS:0x0 ID:64182 IpLen:20 DgmLen:84 DF
+Type:8  Code:0  ID:13   Seq:14  ECHO
+
+[**] [1:408:5] ICMP Echo Reply [**]
+[Classification: Misc activity] [Priority: 3] 
+10/06-11:19:13.496446 00:50:56:E1:9B:9D -> 00:0C:29:A5:B7:A2 type:0x800 len:0x62
+172.67.27.10 -> 192.168.175.129 ICMP TTL:128 TOS:0x0 ID:25826 IpLen:20 DgmLen:84
+Type:0  Code:0  ID:13  Seq:14  ECHO REPLY
+
+[**] [1:366:7] ICMP PING *NIX [**]
+[Classification: Misc activity] [Priority: 3] 
+10/06-11:19:13.522614 00:0C:29:A5:B7:A2 -> 00:50:56:E1:9B:9D type:0x800 len:0x62
+192.168.175.129 -> 172.67.27.10 ICMP TTL:64 TOS:0x0 ID:64302 IpLen:20 DgmLen:84 DF
+Type:8  Code:0  ID:13   Seq:15  ECHO
+
+[**] [1:384:5] ICMP PING [**]
+[Classification: Misc activity] [Priority: 3] 
+10/06-11:19:13.522614 00:0C:29:A5:B7:A2 -> 00:50:56:E1:9B:9D type:0x800 len:0x62
+192.168.175.129 -> 172.67.27.10 ICMP TTL:64 TOS:0x0 ID:64302 IpLen:20 DgmLen:84 DF
+Type:8  Code:0  ID:13   Seq:15  ECHO
+
+[**] [1:408:5] ICMP Echo Reply [**]
+[Classification: Misc activity] [Priority: 3] 
+10/06-11:19:13.548794 00:50:56:E1:9B:9D -> 00:0C:29:A5:B7:A2 type:0x800 len:0x62
+172.67.27.10 -> 192.168.175.129 ICMP TTL:128 TOS:0x0 ID:25827 IpLen:20 DgmLen:84
+Type:0  Code:0  ID:13  Seq:15  ECHO REPLY
+
+[**] [1:366:7] ICMP PING *NIX [**]
+[Classification: Misc activity] [Priority: 3] 
+10/06-11:19:13.574890 00:0C:29:A5:B7:A2 -> 00:50:56:E1:9B:9D type:0x800 len:0x62
+192.168.175.129 -> 172.67.27.10 ICMP TTL:64 TOS:0x0 ID:64419 IpLen:20 DgmLen:84 DF
+Type:8  Code:0  ID:13   Seq:16  ECHO
+
+[**] [1:384:5] ICMP PING [**]
+[Classification: Misc activity] [Priority: 3] 
+10/06-11:19:13.574890 00:0C:29:A5:B7:A2 -> 00:50:56:E1:9B:9D type:0x800 len:0x62
+192.168.175.129 -> 172.67.27.10 ICMP TTL:64 TOS:0x0 ID:64419 IpLen:20 DgmLen:84 DF
+Type:8  Code:0  ID:13   Seq:16  ECHO
+
+[**] [1:408:5] ICMP Echo Reply [**]
+[Classification: Misc activity] [Priority: 3] 
+10/06-11:19:13.601037 00:50:56:E1:9B:9D -> 00:0C:29:A5:B7:A2 type:0x800 len:0x62
+172.67.27.10 -> 192.168.175.129 ICMP TTL:128 TOS:0x0 ID:25828 IpLen:20 DgmLen:84
+Type:0  Code:0  ID:13  Seq:16  ECHO REPLY
+
+[**] [1:366:7] ICMP PING *NIX [**]
+[Classification: Misc activity] [Priority: 3] 
+10/06-11:19:13.627167 00:0C:29:A5:B7:A2 -> 00:50:56:E1:9B:9D type:0x800 len:0x62
+192.168.175.129 -> 172.67.27.10 ICMP TTL:64 TOS:0x0 ID:64634 IpLen:20 DgmLen:84 DF
+Type:8  Code:0  ID:13   Seq:17  ECHO
+
+[**] [1:384:5] ICMP PING [**]
+[Classification: Misc activity] [Priority: 3] 
+10/06-11:19:13.627167 00:0C:29:A5:B7:A2 -> 00:50:56:E1:9B:9D type:0x800 len:0x62
+192.168.175.129 -> 172.67.27.10 ICMP TTL:64 TOS:0x0 ID:64634 IpLen:20 DgmLen:84 DF
+Type:8  Code:0  ID:13   Seq:17  ECHO
+
+[**] [1:408:5] ICMP Echo Reply [**]
+[Classification: Misc activity] [Priority: 3] 
+10/06-11:19:13.653250 00:50:56:E1:9B:9D -> 00:0C:29:A5:B7:A2 type:0x800 len:0x62
+172.67.27.10 -> 192.168.175.129 ICMP TTL:128 TOS:0x0 ID:25829 IpLen:20 DgmLen:84
+Type:0  Code:0  ID:13  Seq:17  ECHO REPLY
+
+[**] [1:366:7] ICMP PING *NIX [**]
+[Classification: Misc activity] [Priority: 3] 
+10/06-11:19:13.679473 00:0C:29:A5:B7:A2 -> 00:50:56:E1:9B:9D type:0x800 len:0x62
+192.168.175.129 -> 172.67.27.10 ICMP TTL:64 TOS:0x0 ID:64712 IpLen:20 DgmLen:84 DF
+Type:8  Code:0  ID:13   Seq:18  ECHO
+
+[**] [1:384:5] ICMP PING [**]
+[Classification: Misc activity] [Priority: 3] 
+10/06-11:19:13.679473 00:0C:29:A5:B7:A2 -> 00:50:56:E1:9B:9D type:0x800 len:0x62
+192.168.175.129 -> 172.67.27.10 ICMP TTL:64 TOS:0x0 ID:64712 IpLen:20 DgmLen:84 DF
+Type:8  Code:0  ID:13   Seq:18  ECHO
+
+[**] [1:408:5] ICMP Echo Reply [**]
+[Classification: Misc activity] [Priority: 3] 
+10/06-11:19:13.705651 00:50:56:E1:9B:9D -> 00:0C:29:A5:B7:A2 type:0x800 len:0x62
+172.67.27.10 -> 192.168.175.129 ICMP TTL:128 TOS:0x0 ID:25830 IpLen:20 DgmLen:84
+Type:0  Code:0  ID:13  Seq:18  ECHO REPLY
+
