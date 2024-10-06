@@ -1,4 +1,4 @@
-from flask import Flask, jsonify
+from flask import Flask, jsonify, request
 from flask_socketio import SocketIO, emit
 from flask_cors import CORS  # Import CORS
 from datetime import datetime, timezone
@@ -25,13 +25,8 @@ def index():
 #generate summary given a report
 #store this report in db and send to front end
 @app.route('/CyberAttack', methods=['POST'])
-def CyberAttack(snort_output):
-    snort_output = """
-    04/24-15:50:29.236253  [**] [1:498:6]  
-    ATTACK-RESPONSES id check returned root [**] 
-    [Classification: Potentially Bad Traffic] [Priority: 2]
-    TCP 82.165.50.118:80 -> 69.143.202.28:39929
-    """
+def CyberAttack():
+    snort_output = request.args.get('attackString')
 
     model = genai.GenerativeModel(model_name="gemini-1.5-flash")
     system_prompt = """
@@ -113,6 +108,7 @@ def CyberAttack(snort_output):
     doc_ref.set(msg)
     
     socketio.emit('server_message', msg)
+    return snort_output, 200
 
 @app.route('/get_data', methods=['GET'])#get past summaries
 def RetrievePastMessages():
