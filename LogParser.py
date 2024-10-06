@@ -20,10 +20,10 @@ if __name__ == "__main__":
             line = file.readline()
         
         while line!="":
-            if(sum(1 for _ in (doc_ref.where(filter=FieldFilter("value", "==", report)).stream()))==0):#check if report exists in db
-                db.collection("Reports").document().set({'value': report})#if not exist store in db and get summary
-                requests.post(url = 'http://localhost:5001/CyberAttack', params={'attackString': report})
-                # print("ye")
+            if "DETECTED" in report:
+                if(sum(1 for _ in (doc_ref.where(filter=FieldFilter("value", "==", report)).stream()))==0):#check if report exists in db
+                    db.collection("Reports").document().set({'value': report})#if not exist store in db and get summary
+                    requests.post(url = 'http://localhost:5001/CyberAttack', params={'attackString': report})
             
             line = file.readline()
             report = ""

@@ -66,6 +66,7 @@ def CyberAttack():
 
     Include a brief note on the severity level based on the priority in the log:
 
+    Priority 0: Dangerous
     Priority 1: Critical
     Priority 2: High
     Priority 3: Medium
